@@ -1,2 +1,2 @@
 #!/bin/bash
-set $BREATH $LOVE
+set LOVE=BREATH
